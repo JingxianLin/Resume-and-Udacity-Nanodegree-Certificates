@@ -1,4 +1,4 @@
-# Resume
+# Resume & Udacity Nanodegree Certificate
 
 Data Scientist https://confirm.udacity.com/HLD4367D
 
